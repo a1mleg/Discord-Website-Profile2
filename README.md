@@ -4,7 +4,7 @@
 
 Site Discord 
 
- <img src="https://uploaddeimagens.com.br/images/004/836/037/full/image.png?1724956478" width="800" /> 
+ <img src="https://i.ibb.co/KZjDFHJ/image.png" width="800" /> 
 
 
 ### 📋 Pré-requisitos
